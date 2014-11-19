@@ -8,5 +8,5 @@
   <project name="CyanogenMod/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" />
   <project name="CyanogenMod/android_frameworks_opt_connectivity" path="frameworks/opt/connectivity" remote="github" revision="cm-11.0" />
   <project name="TheMuppets/proprietary_vendor_oneplus.git" path="vendor/oneplus" remote="github" revision="cm-12.0"/>
-  <project name="SouzPear-Conglomerate/proprietary_vendor_oppo.git" path="vendor/oppo" remote="github" revision="cm-12.0"/>
+  <project name="TheMuppets/proprietary_vendor_oppo.git" path="vendor/oppo" remote="github" revision="cm-12.0"/>
 </manifest>
